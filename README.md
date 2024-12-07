@@ -1,10 +1,25 @@
-#  Arcade Crane Game
-How to open the game
-Open Assets/Core/_Scene/Core.scene and hit play
+# Showcase
+![Output sample](Showcase/CraneGame.gif)
 
-How To Control the crank
-1. touch the screen and move your finger
-2. use W,A,S,D to move and Space to lower the crank
+###  Arcade Crane Game
+simple crane game inspired by real life arcade version of it.
+<br>Project duration: 3 days
 
-## Unity Version
-open with Unity 2021.3.45f1
+### How to open the game
+1. Clone or download this project
+2. Open with Unity Engine 2021.3.45f1
+3. Open Assets/Core/_Scene/Core.scene
+4. Hit play button
+
+### Player Actions
+control the crank with touchscreen or keyboard
+****Touchscreen
+1. Press & hold the screen and move your finger to move the crane
+2. Tap to catch item.
+**** Keyboard
+1. use W,A,S,D to move
+2. Press spacebar to catch item
+
+### Tools
+1. Unity Engine 2021.3.45f1
+2. Dotween
